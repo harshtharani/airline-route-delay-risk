@@ -1,0 +1,13 @@
+pandas
+numpy
+networkx
+scikit-learn
+xgboost
+neo4j
+torch
+torch_geometric
+streamlit
+pydeck
+matplotlib
+shap
+requests

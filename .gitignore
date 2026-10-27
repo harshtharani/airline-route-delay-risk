@@ -1,0 +1,19 @@
+# raw and generated data (re-create with run_all.py; BTS files are too big for GitHub)
+data/raw/bts/
+data/raw/weather.csv
+data/raw/*.zip
+data/processed/
+outputs/
+*.zip
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# secrets and editor files
+.env
+*.key
+.vscode/
+.DS_Store
