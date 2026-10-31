@@ -123,3 +123,6 @@ See `WALKTHROUGH.md` for a plain-language explanation of every step.
 ## Tech
 
 Python, pandas, NetworkX, PyTorch Geometric (GCN), XGBoost, scikit-learn, SHAP, Streamlit, pydeck, Neo4j (Cypher).
+
+## Development note
+Built with the help of an AI coding assistant. I chose the project idea, data sources and evaluation approach, ran and checked the pipeline on real data, and wrote up and verified the results.
